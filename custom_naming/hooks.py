@@ -145,6 +145,13 @@ app_license = "mit"
 # 	}
 # }
 
+
+doc_events = {
+	"Item":{
+		"validate":"custom_naming.item.validate"
+	}
+}
+
 # Scheduled Tasks
 # ---------------
 
